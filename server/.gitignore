@@ -1,0 +1,10 @@
+venv
+.env
+myenv/
+/downloads
+*.pdf
+*.ipynb
+.aws
+dockerfile
+/webscraping
+/prompts
